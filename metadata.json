@@ -1,0 +1,7 @@
+{
+  "name": "Diabkit - Smart Diabetes Management",
+  "description": "An AI-powered meal tracking and diabetes management app that helps users monitor calories, macronutrients, and sugar levels through food photography and educational lessons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
